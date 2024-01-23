@@ -1,0 +1,13 @@
+int A[10];
+
+
+void main() {
+  int i;
+  i = 2;
+  read(A[1]);
+  read(A[i]);
+  write(A[1]);
+  write(A[i]);
+
+  exit;
+}
